@@ -1,0 +1,18 @@
+table {
+	border: 5px solid silver;
+}
+
+th {
+	background-color : LightSlateGray;
+	color : DarkSlateGray;
+	
+}
+
+td:hover{
+	background-color :MintCream;
+	color : black;
+}
+tr, td {
+	background-color : HoneyDew;
+	color : SaddleBrown;
+}
