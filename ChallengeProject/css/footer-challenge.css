@@ -1,0 +1,12 @@
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(143, 113, 103);
+    color: white;
+  }
+  h2{
+      font-weight: 900;
+  }
+  p{
+      font-weight: bold;
+  }

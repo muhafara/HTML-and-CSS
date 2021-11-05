@@ -1,0 +1,21 @@
+.row {
+    display: flex;
+  }
+  
+  .column1 {
+    flex: 50%;
+    background-color: aqua;
+    color:darkorange;
+    height: 200px;
+    width: 50%;
+    text-align: center;
+  }
+  .column2 {
+    flex: 50%;
+    background-color: bisque;
+    color: darkgrey;
+    height: 200px;
+    width: 50%;
+    text-align: center;
+  }
+  

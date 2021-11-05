@@ -1,0 +1,8 @@
+p{
+    background-color: darkturquoise;
+}
+@media (max-width: 500px) {
+    p {
+      background-color: lightgreen;
+    }
+  }
